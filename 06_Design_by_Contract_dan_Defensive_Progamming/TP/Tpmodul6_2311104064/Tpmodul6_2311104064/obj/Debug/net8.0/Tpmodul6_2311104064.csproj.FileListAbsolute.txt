@@ -1,0 +1,14 @@
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\bin\Debug\net8.0\Tpmodul6_2311104064.exe
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\bin\Debug\net8.0\Tpmodul6_2311104064.deps.json
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\bin\Debug\net8.0\Tpmodul6_2311104064.runtimeconfig.json
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\bin\Debug\net8.0\Tpmodul6_2311104064.dll
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\bin\Debug\net8.0\Tpmodul6_2311104064.pdb
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.AssemblyInfoInputs.cache
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.AssemblyInfo.cs
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.csproj.CoreCompileInputs.cache
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.dll
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\refint\Tpmodul6_2311104064.dll
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.pdb
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\Tpmodul6_2311104064.genruntimeconfig.cache
+D:\KPL\Tpmodul6_2311104064\Tpmodul6_2311104064\obj\Debug\net8.0\ref\Tpmodul6_2311104064.dll
