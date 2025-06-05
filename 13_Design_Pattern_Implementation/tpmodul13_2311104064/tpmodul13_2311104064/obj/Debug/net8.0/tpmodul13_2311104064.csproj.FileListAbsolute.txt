@@ -1,0 +1,15 @@
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\bin\Debug\net8.0\tpmodul13_2311104064.exe
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\bin\Debug\net8.0\tpmodul13_2311104064.deps.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\bin\Debug\net8.0\tpmodul13_2311104064.runtimeconfig.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\bin\Debug\net8.0\tpmodul13_2311104064.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\bin\Debug\net8.0\tpmodul13_2311104064.pdb
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.AssemblyInfoInputs.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.AssemblyInfo.cs
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.csproj.CoreCompileInputs.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.sourcelink.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\refint\tpmodul13_2311104064.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.pdb
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\tpmodul13_2311104064.genruntimeconfig.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\tpmodul13_2311104064\tpmodul13_2311104064\obj\Debug\net8.0\ref\tpmodul13_2311104064.dll
