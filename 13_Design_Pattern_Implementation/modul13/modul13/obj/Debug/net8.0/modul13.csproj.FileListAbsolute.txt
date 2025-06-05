@@ -1,0 +1,15 @@
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\bin\Debug\net8.0\modul13.exe
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\bin\Debug\net8.0\modul13.deps.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\bin\Debug\net8.0\modul13.runtimeconfig.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\bin\Debug\net8.0\modul13.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\bin\Debug\net8.0\modul13.pdb
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.AssemblyInfoInputs.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.AssemblyInfo.cs
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.csproj.CoreCompileInputs.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.sourcelink.json
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\refint\modul13.dll
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.pdb
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\modul13.genruntimeconfig.cache
+D:\KPL_Muhammad-Ikhsan-Al-Hakim_2311104064_SE-07-02\13_Design_Pattern_Implementation\modul13\modul13\obj\Debug\net8.0\ref\modul13.dll
